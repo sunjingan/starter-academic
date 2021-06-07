@@ -34,7 +34,7 @@ item:
 - certificate_url: https://www.edx.org
   date_end: ""
   date_start: "2019-05-01"
-  description: 
+  description: ""
   organization: Shenzhen Cup council
   organization_url: 
   title: Shenzhen Cup Mathematical Modeling Challenge Shanghai Region  Third Prize
