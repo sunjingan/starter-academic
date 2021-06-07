@@ -27,7 +27,7 @@ item:
   date_end: ""
   date_start: "2018-10"
   description: ""
-  organization:China Mathematic council
+  organization: China Mathematic council
   organization_url: 
   title: The 10th National College Student Mathematics Competition (non-mathematics) First Prize
   url: ""
@@ -35,7 +35,7 @@ item:
   date_end: ""
   date_start: "2019-05"
   description: ""
-  organization:Shenzhen Cup council
+  organization: Shenzhen Cup council
   organization_url:  
   title: "Shenzhen Cup" Mathematical Modeling Challenge Shanghai Region  Third Prize
   url: 
