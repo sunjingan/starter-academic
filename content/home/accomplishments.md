@@ -27,29 +27,29 @@ item:
   date_end: ""
   date_start: "2018-10"
   description: ""
-  organization: 
+  organization: China Mathematic council
   organization_url: 
   title: The 10th National College Student Mathematics Competition (non-mathematics) First Prize
   url: ""
 - certificate_url: 
   date_end: ""
-  date_start: "2019"
-  description: 
-  organization: 
-  organization_url: 
+  date_start: "2019-5"
+  description: ""
+  organization: Shenzhen Cup council
+  organization_url:  
   title: "Shenzhen Cup" Mathematical Modeling Challenge Shanghai Region  Third Prize
   url: 
 - certificate_url: 
-  date_end: "2019"
-  date_start: "2018"
+  date_end: "2019-6"
+  date_start: "2018-9"
   description: ""
   organization: FuDan University
   organization_url: 
   title: Dong Lin Alumni Scholarship
   url: ""
 - certificate_url: 
-  date_end: "2020"
-  date_start: "2019"
+  date_end: "2020-6"
+  date_start: "2019-9"
   description: ""
   organization: FuDan University
   organization_url: 
