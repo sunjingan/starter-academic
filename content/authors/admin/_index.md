@@ -53,7 +53,7 @@ social:
    link: uploads/cv_sunjingan.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "18300200002@fudan.edu.cn"
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
