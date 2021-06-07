@@ -26,7 +26,6 @@ experience:
     company: GenCoin
     company_url: ''
     company_logo: org-gc
-    #location: California
     date_start: '2020-10'
     date_end: ''
     description: 
