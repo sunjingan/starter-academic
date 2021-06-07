@@ -31,7 +31,7 @@ item:
   organization_url: 
   title: The 10th National College Student Mathematics Competition (non-mathematics) First Prize
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: 
   date_end: ""
   date_start: "2019-05-01"
   description: ""
