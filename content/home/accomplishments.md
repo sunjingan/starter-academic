@@ -38,7 +38,7 @@ item:
   organization: Shenzhen Cup council
   organization_url: 
   title: Shenzhen Cup Mathematical Modeling Challenge Shanghai Region  Third Prize
-  url: 
+  url: ""
 - certificate_url: 
   date_end: "2019-06-01"
   date_start: "2018-09-01"
