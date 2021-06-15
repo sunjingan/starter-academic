@@ -67,4 +67,4 @@ I have two research experience, one of is CMS machine learning science project a
 
 Another project is to calculate the energy and wave function of multiple Harmonic oscillators with delta  interaction. I am applying  Generate Coordinate Method (a method from nuclear many body problem) to calculate 2、3、4、5、6 body problem and  the ground energy  is expected to be consistent with other methods. Remarkably, In GCM I just use Gaussian function as my trial wave function, so this method may be easily generalized to more bodies.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/statement_en.pdf" "newtab" >}}Personal Statement{{< /staticref >}}.
